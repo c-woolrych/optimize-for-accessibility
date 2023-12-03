@@ -5,4 +5,15 @@ This repository is to update the Horiseon codebase to meet accessibility standar
 
 [Initial Functionality](/initial-index.html)
 
-Being designed for desktop viewing this website does not allow easy viewing at resolutions smaller than 768px. 
+Being designed for desktop viewing this website does not allow easy viewing at resolutions smaller than 768px which will be addressed after key accessibility tools are implemented.<br>
+The CSS class components are easily minimized from the spread out layout shown.
+![screenshot example of how the code was initially presented](/assets/images/example-class-code.png)
+
+## Next Steps
+
+>[!NOTE]
+>**Coming soon!**
+
+##Licensing
+
+Licensed under MIT 
