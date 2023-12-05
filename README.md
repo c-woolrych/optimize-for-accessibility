@@ -6,7 +6,12 @@ This repository is to update the Horiseon codebase to meet accessibility standar
 ## Initial Functionality
 
 Being designed for desktop viewing this website does not allow easy viewing at resolutions smaller than 768px which will be addressed after key accessibility tools are implemented.<br>
-The CSS class components are easily minimized from the spread out layout shown.
+
+## Credit
+
+Here are some websites used to refer to for changes to make regarding [best practices](https://www.markdownguide.org/basic-syntax/#html), [basic writing](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#relative-links) and [semantic elements](https://www.w3schools.com/html/html5_semantic_elements.asp) e.g. changing the div elemets to article, section, aside.
+
+
 
 ## Next Steps
 
