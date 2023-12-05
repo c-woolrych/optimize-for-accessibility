@@ -6,6 +6,8 @@ This repository is to update the Horiseon codebase to meet accessibility standar
 Initial Functionality
 
 Being designed for desktop viewing this website does not allow easy viewing at resolutions smaller than 768px which will be addressed after key accessibility tools are implemented.<br>
+![image of website at full screen](/assets/images/readme/full-screen.png)
+![image of website small screen](/assets/images/readme/small-screen.png)
 
 ## Credit
 
