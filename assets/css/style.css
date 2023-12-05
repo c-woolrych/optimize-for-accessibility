@@ -33,6 +33,7 @@ body {
     width: 100%;
 }
 
+/*Change class name from div to navigation*/
 .navigation ul {
     margin-top: 1.5%;
     margin-left: 40%;
@@ -53,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/*Dividing image, clearing the content bewlow*/
 .hero {
     height: 800px;
     width: 100%;
@@ -79,6 +81,7 @@ p {
     margin-left: 25px;
 }
 
+/*Condense article content to avoid repating code*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -97,6 +100,7 @@ p {
     max-height: 200px;
 }
 
+/*Condense aside content to avoid repeating code*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
